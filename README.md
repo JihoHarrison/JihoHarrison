@@ -3,8 +3,8 @@
 - 🌱 I’m currently learning Kotlin android developing.
 - currently started to study MVVM architecture.
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JihoKevin&&show_icons=true&theme=Default)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JihoKevin&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+![Anurag's GitHub stats]<div align="center">(https://github-readme-stats.vercel.app/api?username=JihoKevin&&show_icons=true&theme=Default)</div>
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JihoKevin&layout=compact)
 
 <!---
 JihoKevin/JihoKevin is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
