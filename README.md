@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @JihoKevin
--  🇰🇷 I’m interested in Android.
+- 💻 I’m interested in Android.
 - 🌱 I’m currently learning Kotlin android developing.
 - 💻 currently started to study MVVM architecture.
 
