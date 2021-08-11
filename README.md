@@ -5,7 +5,7 @@
 - 🌱 I’m currently learning Kotlin android developing.
 - 💻 currently started to study MVVM architecture.
 
-- 📮 **Kevin's email ...**[![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:jhshin925@gmail.com)](mailto:jhshin925@gmail.com)
+- 📮 Kevin's email [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:jhshin925@gmail.com)](mailto:jhshin925@gmail.com)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JihoKevin&&show_icons=true&theme=Default)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JihoKevin&layout=compact)
