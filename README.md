@@ -2,8 +2,8 @@
 
 - 👋 Hi, I’m @JihoKevin
 - 💻 I’m interested in Android.
-- 🌱 I’m currently learning Kotlin android developing.
-- 💻 currently started to study MVVM architecture.
+- 🌱 Learning Kotlin android developing.
+- 💻 Currently started to study MVVM architecture.
 
 - 📮 Kevin's email [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:jhshin925@gmail.com)](mailto:jhshin925@gmail.com)
 
