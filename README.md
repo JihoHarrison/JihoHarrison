@@ -8,7 +8,6 @@
 - 📮 Kevin's email [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:jhshin925@gmail.com)](mailto:jhshin925@gmail.com)
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JihoKevin&&show_icons=true&theme=Default)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JihoKevin&layout=compact)
 <!---
 JihoKevin/JihoKevin is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
