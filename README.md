@@ -11,10 +11,10 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JihoKevin&&show_icons=true&theme=Default)
   
-🛠 stack
+🛠 stack   
   <img src="https://img.shields.io/badge/JAVA-007396?style=for-the-badge&logo=java&logoColor=white">
   <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white">
-  <img src="https://img.shields.io/badge/ReactiveX-3DDC84?style=for-the-badge&logo=ReactiveX&logoColor=white">
+  <img src="https://img.shields.io/badge/ReactiveX-B7178C?style=for-the-badge&logo=ReactiveX&logoColor=white">
   <img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=SQLite&logoColor=white">
   
   
