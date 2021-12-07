@@ -6,7 +6,7 @@
      
   🌱  Learning Kotlin & RxKotlin.   
      
-  💻  Currently started to study MVVM architecture.   
+  💻  Fell in love with MVVM architecture.   
    
   📮  Kevin's email [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:jhshin925@gmail.com)](mailto:jhshin925@gmail.com)
 
