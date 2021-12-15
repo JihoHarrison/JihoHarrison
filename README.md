@@ -14,7 +14,7 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JihoKevin&&show_icons=true&theme=Default)
   
-### 🛠 stack   
+ <div align=center><h2> 🛠 stack  </h2><div>
       
   <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white">
   <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white">
