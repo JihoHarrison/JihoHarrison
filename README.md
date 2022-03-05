@@ -2,7 +2,6 @@
 
 <div align="center">
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JihoKevin&&show_icons=true&theme=Default)
   
  <div align=center><h2> 🛠 stack  </h2><div>
       
