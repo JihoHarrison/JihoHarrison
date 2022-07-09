@@ -14,6 +14,8 @@
       <div align = center>  
   <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white">   
   <img src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=Slack&logoColor=white">                
+  <img src="https://img.shields.io/badge/Asana-ED145B?style=for-the-badge&logo=Asana&logoColor=white">                         
+  <img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=Jira&logoColor=white">                         
   <br>
       </div>
   
